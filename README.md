@@ -1,1 +1,7 @@
-# Irmak_8800157
+Name: Irmak Senturk
+
+
+Project Title: Lab3
+
+
+Student Id: 8800157
